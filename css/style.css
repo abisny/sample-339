@@ -1,0 +1,19 @@
+body {
+    background-color: grey;
+}
+h1 {
+    color: white;
+}
+p {
+    color: white;
+}
+li {
+    color: white;
+}
+img {
+    border: 1px solid white;
+    border-radius: 4px;
+    padding: 5px;
+    width: 25%;
+}
+
