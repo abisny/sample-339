@@ -1,14 +1,17 @@
 body {
-    background-color: grey;
+    background-color: white;
 }
 h1 {
-    color: white;
+    color: black;
 }
 p {
-    color: white;
+    color: black;
 }
 li {
-    color: white;
+    color: black;
+    display: inline-block;
+    width: 15%;
+    background: white;
 }
 img {
     border: 1px solid white;
@@ -16,4 +19,3 @@ img {
     padding: 5px;
     width: 25%;
 }
-
